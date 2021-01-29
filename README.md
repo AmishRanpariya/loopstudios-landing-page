@@ -1,6 +1,11 @@
-# Frontend Mentor - Loopstudios landing page
+# Loopstudios landing page
 
-![Design preview for the Loopstudios landing page coding challenge](./design/desktop-preview.jpg)
+<a href="https://amishranpariya.github.io/loopstudios-landing-page/">
+<img  width="100%" src="./design/desktop-preview.jpg" alt="Design preview for the Loopstudios landing page coding challenge" />
+</a>
+<a href="https://amishranpariya.github.io/loopstudios-landing-page/">
+<img  width="100%" src="./design/desktop-design.jpg" alt="Design preview for the Loopstudios landing page coding challenge" />
+</a>
 
 ## Welcome! 👋
 
